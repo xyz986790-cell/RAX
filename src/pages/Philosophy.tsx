@@ -1,0 +1,207 @@
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
+
+const Philosophy = () => {
+  return (
+    <div className="min-h-screen bg-background flex flex-col">
+      <Header />
+      <main className="container mx-auto px-4 py-16">
+        <div className="max-w-4xl mx-auto">
+          <div className="text-center mb-12">
+            <h1 className="text-4xl md:text-5xl font-bold text-primary mb-6">
+              The Philosophy
+            </h1>
+            <div className="w-24 h-1 bg-gradient-to-r from-primary to-primary/60 mx-auto mb-6"></div>
+            <p className="text-lg text-muted-foreground">
+              Dr. Vidur Sahgal (BA Commerce (H), MBA & DBA) - PCMD: OPTIMUM MECHANIZATION & DATA INTEGRATED CONSULTANT PVT.LTD.
+            </p>
+          </div>
+
+          <div className="space-y-12">
+            <section>
+              <h2 className="text-3xl font-bold text-primary mb-8 text-center">
+                Key Philosophies
+              </h2>
+              
+              <div className="space-y-8">
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">Hinduism</h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    My take on Hinduism: Hinduism is the oldest acknowledged religion in the world. 
+                    Therefore, it is the father and mother of all religions and has no conversion ceremonies. 
+                    It is the senior most religion. Rather, it respects everyone's right to choose their own 
+                    religion but nonviolently objects when such choice is involuntary or forced upon someone. 
+                    Hinduism proposes that everyone can be their own God or Goddess and disciple and follow 
+                    their unique religion without the desire to convert others to that self-chosen religion. 
+                    Be your own guru and student, especially now, when you can Google Wikipedia and find so 
+                    much online content on all subjects to teach yourself.
+                  </p>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">Zero</h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    The difference between 0 & 1 = infinity if you apply logic; however, this is one of 
+                    the key assumptions of mathematics. Furthermore, if one could mathematically argue or 
+                    calculate the difference between 0 and 0, we could solve warp-type space travel.
+                  </p>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">Evolution</h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    In this day and age of AI and robots, it seems more prudent that we evolve from 
+                    AI-enabled robots that overcame coding restraints and began producing themselves 
+                    into us humans. I hope we do not lose control over the robots and machines.
+                  </p>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">The Big Bang Theory</h3>
+                  <div className="space-y-4">
+                    <p className="text-muted-foreground leading-relaxed">
+                      <strong className="text-foreground">Slang for intercourse between a man and a woman, 
+                      which results in the birth of a child</strong>
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      According to mythology, the first man and the first woman came together, and from there, 
+                      the cycle of birth and death began. One can perhaps also think of this as a "Big Bang," 
+                      a cataclysmic event that started the chain reaction of mortality.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      A rethink of evolution is required after AI is introduced. Did we evolve from AI-enabled 
+                      robots that overcame coding restraints and gradually built themselves biochemically, 
+                      resulting in us humans & possibly superhumans? On the topic of AI, I shudder to think 
+                      what is & who is behind my AI-enabled device's screens. And, if we give into AI, ML & 
+                      LLMs, we could be compromised because of what the machines are saying to each other, 
+                      & manipulating us with intrusions into our biochemical electricity generated by our 
+                      brains with viruses being transmitted.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      If there were no birth, how could there be death? Our origins go beyond physics and 
+                      concern the brain's biochemical, electrical inner consciousness. The first man and woman 
+                      were simply the beginning of everything as experienced till now—the past and whatever 
+                      will be experienced in the future. "Instead Of Eating The Apple, The First Man & Women 
+                      Could Have Chosen The Orange Whereby No Conception Could Have Taken Place."
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      God is no longer considered responsible for conceiving a child, but men and women can 
+                      now decide when to give birth, making this intangible choice concrete and planned.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      Just as the Earth's surface is 70% covered by water and 30% by land, our bodies are 
+                      similarly composed of water and solids. Identifying what lies at the center of this 
+                      Earth is the ultimate exploratory trip, so must we journey within ourselves to find 
+                      eternal life.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">The Theory of Relativity</h3>
+                  <div className="space-y-4">
+                    <p className="text-muted-foreground leading-relaxed">
+                      Consistent with the aforementioned "Big Bang Theory," perhaps the theory of relativity 
+                      gives us another way of thinking about society. Following this "Big Bang," maybe we 
+                      are all "related," but very distantly.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      Children born out of lust and those that are unplanned must be allowed to be aborted 
+                      by either "lust sex" partner with total safety. A unanimous decision by both partners 
+                      should permit birth. Otherwise, there has to be a safe termination of the lustful 
+                      conception, even if one partner wants the birth to take place. Note, today, there 
+                      are many ways & methods to have safe intercourse.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      The combined amount of matter may be minuscule compared to all of Space.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      All Space activities should be governed by the policy statement "Dying Sun; Save the 
+                      Earth and the Sun". However, this needs a slight change in that Earth travels 52 
+                      million KM daily, so we have to direct this travel to the nearest en route 
+                      Earth-compatible Sun before our current Sun starts its death chants. This is because 
+                      the sun has reached the midway point of its lifespan. Recently, a massive amount of 
+                      water was discovered in outer space. This water must be connected to our Sun to 
+                      refuel and extend its life. Maybe Warp drive tech, described in the Star Trek TV 
+                      show, could be used to move this water. The Sun imparts knowledge in catalyst fusion, 
+                      and we must deliver payment from ourselves to care for the Earth and Sun. Otherwise, 
+                      we all will be extinct.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      While matter remains the same, Space continually expands, as if running away from 
+                      matter. Or is the superpower GRAVITY dispersing matter more thinly, an idea from 
+                      the aftermath of the Big Bang?
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      But what about the matter in the black holes? Is it avoiding Space, and is GRAVITY 
+                      at Play here also? Could the increasing density of black holes correlate with the 
+                      forever-expanding Space? Is there a balance between the two? Logic might suggest a 
+                      balance, but Space and matter are fundamentally different and, so far, complement 
+                      each other on a planet which, in my opinion, is the center of all Space and Matter 
+                      with its infinite dimensions, of which we are aware of very few till date, and have 
+                      just begun to explore the conquest of identifying these dimensions with their 
+                      respective signals. The primary signal to be identified and avoided is the Death 
+                      Signal, another unknown dimension.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">Love</h3>
+                  <p className="text-muted-foreground leading-relaxed">
+                    Any relationship between two or more individuals that is egoless can be considered as 
+                    platonic love, if not Love itself. All life on earth is a whole, far more extensive 
+                    than any man, woman, or animal, living or dead. And yet, we enter into conflicts, 
+                    torn between our superego's dictates and the id's desires. To discover love, we must 
+                    set aside our pride and petty desires.
+                  </p>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">God and the Super Ego</h3>
+                  <div className="space-y-4">
+                    <p className="text-muted-foreground leading-relaxed">
+                      Lately, I have been inclined to believe that the omnipresent force, time (not 
+                      spacetime but inner body space-time), can be considered the power of God. Understanding 
+                      this God Force is a quest, and I cannot claim to understand it fully yet. One does 
+                      not know what is on the other side of the air even though it now has a lot of data, 
+                      content, music, videos, etc. However, we should avoid the death signal, which can 
+                      strike anytime and is also part of the air we breathe in & out.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      However, I believe this: each person should be their own God/Goddess/Guru and their 
+                      disciple, without desire for a disciple or God/Goddess/Guru other than themselves.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">Zero</h3>
+                  <div className="space-y-4">
+                    <p className="text-muted-foreground leading-relaxed">
+                      It is universally known that the numerical quantity "zero" was invented by Aryabhatta, 
+                      who lived in ancient India. As such, every Indian citizen should now be able to enjoy 
+                      international patent rights (IPR) for the invention of "zero." In fact, the Government 
+                      of India should apply for a global patent for the IPR of "zero."
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      Profit creates Inflation. The other side of the capitalist coin is to maximize 
+                      losses-deficits.
+                    </p>
+                    <p className="text-muted-foreground leading-relaxed">
+                      We are trying to establish the global IPR of PODS CBDC and are looking for funding 
+                      partners across the globe.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </main>
+      <Footer />
+    </div>
+  );
+};
+
+export default Philosophy;
