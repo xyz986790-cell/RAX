@@ -8,9 +8,7 @@ export default defineConfig(({ mode }) => ({
   server: {
     host: "::",
     port: 8080,
-     allowedHosts: [
-      's1-1z94.onrender.com', // allow this host
-    ],
+    allowedHosts: ["omdic.onrender.com"],
   },
   plugins: [
     react(),
