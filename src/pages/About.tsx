@@ -139,7 +139,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                    Manika Malhotra Jain (Business Development Economist)
+                    Manika Malhotra Jain (Chief Editor)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Manika Malhotra Jain has over seven years of experience in the fields of economics and policy analysis. 
@@ -217,7 +217,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                    Khushi Sharma, Research Associate at M/s OMDIC Pvt. Ltd.
+                    Khushi Sharma, (Research General Assistant)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Born and brought up in Delhi, Khushi has grown as a public-spirited individual sensitized to various "issues of concern" around her. Having completed her master's in Economics after graduating as a double major in Economics and Mathematics with a minor in Political Science, she's currently honing the life skill of Financial management and related dynamic fields that range from providing personal financial independence to Public Finance.
@@ -241,7 +241,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                    Bhargavi S J
+                    Bhargavi S J (Research and data analyst Assistant)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Bhargavi S J is a motivated and an aspiring economist who has completed her Master’s in Economics with distinction, earning a gold medal during her undergraduate studies. Her research interests lie in Environmental and Financial Economics, with a strong focus on renewable energy and sustainable finance. She has completed a project on the economic and environmental impact of rooftop solar adoption in Chennai, employing econometric techniques such as regression analysis, ANOVA, and t-tests.
