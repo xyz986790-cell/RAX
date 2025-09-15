@@ -113,7 +113,7 @@ const Services = () => {
             </h1>
             <div className="w-24 h-1 bg-gradient-to-r from-primary to-primary/60 mx-auto mb-6"></div>
             <p className="text-xl text-muted-foreground font-semibold">
-              SINCE 1984……..
+              Professional services rendered only to Central banks & International lending organisations on matters of macroeconomic policy & theory with customized practical solutions to implementing PODS CBDC taxless & cashless solutions also.
             </p>
           </div>
 
