@@ -27,7 +27,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                    Dr. Vidur Sahgal (PCMD-OMDIC)
+                    Dr. Vidur Sahgal (Sole Proprietor - OMDIC)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Dr. Vidur Sahgal is the PCMD of Optimum Mechanization & Data Integrated 
