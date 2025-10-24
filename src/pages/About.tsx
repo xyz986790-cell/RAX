@@ -253,6 +253,29 @@ const About = () => {
                 </div>
               </div>
             </section>
+            
+               {/* Dr. Haya Khalid Hashmi */}
+            <section>
+              <div className="grid md:grid-cols-2 gap-12 items-start">
+                <div>
+                  <img
+                    src="/profile/profile6.jpg"
+                    alt="Dr. Haya Khalid Hashmi"
+                    className="w-full rounded-lg shadow-lg"
+                  />
+                </div>
+                <div className="space-y-6">
+                  <h2 className="text-3xl font-bold text-primary">
+                    Dr. Haya Khalid Hashmi (Data Analyst & RA)
+                  </h2>
+                  <p className="text-lg text-muted-foreground leading-relaxed">
+                    Dr. Haya Khalid Hashmi is a young qualified Economics Researcher, Awarded Doctorate in Philosophy in Economics in 2025 from CSJMU, Kanpur. She has keen interest in working on an Economics Research Project related to data analysis, trend based policy making, costing of the product, industrial R&D, project management consultancy, environment related projects such as treatment plant based projects etc. She has professional work experience of around 8 years. Wherein, she has worked both corporate and academic specialisations. She has worked for an industrial firm on the designation of an R & D head, her research area was also related to the same field. She has taught graduate and postgraduate students Macroeconomics on a ad-hoc basis.
+                  <p className="text-muted-foreground leading-relaxed">
+                    Her last work experience is of working as a Postdoctoral Research Associate with Centre of Lifelong Learning and Extension of Arts, Humanities and Social Sciences, at Chhatrapati Shahu Ji Maharaj University, Kanpur, Uttar Pradesh, India. She has been researching in the field of Economics since 2019 and her last engagement with the Centre of Lifelong Learning and Extensions gave her an opportunity to extend my interdisciplinary social science research, with the aim to contribute towards public humanities.
+                  </p>
+                </div>
+              </div>
+            </section>
           </div>
         </div>
       </main>
