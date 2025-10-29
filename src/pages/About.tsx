@@ -30,7 +30,7 @@ const About = () => {
                     Dr. Vidur Sahgal (Sole Proprietor - OMDIC)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
-                    GDr. Vidur Sahgal is now the PCMD of M/s Optimum Mechanization 
+                    GDr. Vidur Sahgal is now the PCMD and Team Leader of M/s Optimum Mechanization 
                     & Data Integrated Consultant Pvt. Ltd (M/s OMDIC) in which he was the 
                     Sole Proprietor upto July 2025 & which was founded in 1984. His PhD thesis in macroeconomic 
                     policy was on distributed equilibrium allowable deficit spending (DEADS), 
