@@ -194,6 +194,16 @@ const Philosophy = () => {
                     </p>
                   </div>
                 </div>
+                
+                <div className="bg-card p-8 rounded-lg shadow-sm border">
+                  <h3 className="text-2xl font-semibold text-primary mb-4">United International Outer Space Policy Statement Recommendation.</h3>
+                  <div className="space-y-4">
+                    <p className="text-muted-foreground leading-relaxed">
+                      United International Space Policy should adopt the policy statement  "Dying Sun: Save the Sun & the Earth" by finding fuel for the Sun or steering The Earth & The Sun  
+to another Solar System where both could position themselves and continue to exist as is currently, but without war & instead protecting our planet from other space objects, or aliens, though one should believe that Earth & its multitude of unexplored, or unknown dimensions is the Centre & Depository of all creation. It is important to explore Earth - a peaceful one, as well as outer space commercially.
+                    </p> 
+                  </div>
+                </div>
               </div>
             </section>
           </div>
