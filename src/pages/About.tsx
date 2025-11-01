@@ -20,7 +20,7 @@ const About = () => {
               <div className="grid md:grid-cols-2 gap-12 items-start">
                 <div>
                   <img 
-                    src="https://images.squarespace-cdn.com/content/v1/66e1b07a824b1d24657c52ed/0cd76887-288a-4d3c-b7c4-de15ecaa3b2b/website_prfofile_pic.jpg"
+                    src="/profile/profile7.jpg"
                     alt="Dr. Vidur Sahgal"
                     className="w-full rounded-lg shadow-lg"
                   />
