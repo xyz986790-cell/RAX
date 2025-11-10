@@ -284,7 +284,7 @@ const About = () => {
                 <div>
                   <img
                     src="/profile/profile8.jpeg"
-                    alt="Rumela"
+                    alt="Rumela Majumder"
                     className="w-full rounded-lg shadow-lg"
                   />
                 </div>
