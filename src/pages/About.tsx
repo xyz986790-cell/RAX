@@ -290,7 +290,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                   Rumela (Data Analyst & R.A.)
+                   Rumela Majumder (Data Analyst & R.A.)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                    A highly motivated researcher with First Class results in M.A. in Economics, specialising in Econometrics from Rabindra Bharati University. Experienced in conducting academic and quantitative research, particularly in areas such as labour economics and population studies. Skilled in data analysis using Stata, Excel, and Tableau. Proficient in translating complex data into clear, insightful findings for scholarly and professional use.
