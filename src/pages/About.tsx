@@ -266,7 +266,7 @@ const About = () => {
                 </div>
                 <div className="space-y-6">
                   <h2 className="text-3xl font-bold text-primary">
-                    Dr. Haya Khalid Hashmi (Data Analyst & RA)
+                    Dr. Haya Khalid Hashmi (Data Analyst & R.A.)
                   </h2>
                   <p className="text-lg text-muted-foreground leading-relaxed">
                     Dr. Haya Khalid Hashmi is a young qualified Economics Researcher, Awarded Doctorate in Philosophy in Economics in 2025 from CSJMU, Kanpur. She has keen interest in working on an Economics Research Project related to data analysis, trend based policy making, costing of the product, industrial R&D, project management consultancy, environment related projects such as treatment plant based projects etc. She has professional work experience of around 8 years. Wherein, she has worked both corporate and academic specialisations. She has worked for an industrial firm on the designation of an R & D head, her research area was also related to the same field. She has taught graduate and postgraduate students Macroeconomics on a ad-hoc basis. 
@@ -277,10 +277,30 @@ const About = () => {
                 </div>
               </div>
             </section>
+
+              {/*Rumela*/}
+            <section>
+              <div className="grid md:grid-cols-2 gap-12 items-start">
+                <div>
+                  <img
+                    src="/profile/profile8.jpeg"
+                    alt="Rumela"
+                    className="w-full rounded-lg shadow-lg"
+                  />
+                </div>
+                <div className="space-y-6">
+                  <h2 className="text-3xl font-bold text-primary">
+                   Rumela (Data Analyst & R.A.)
+                  </h2>
+                  <p className="text-lg text-muted-foreground leading-relaxed">
+                   A highly motivated researcher with First Class results in M.A. in Economics, specialising in Econometrics from Rabindra Bharati University. Experienced in conducting academic and quantitative research, particularly in areas such as labour economics and population studies. Skilled in data analysis using Stata, Excel, and Tableau. Proficient in translating complex data into clear, insightful findings for scholarly and professional use.
+                </div>
+              </div>
+            </section>
           </div>
         </div>
       </main>
-      <Footer />
+      <Footer/>
     </div>
   );
 };
