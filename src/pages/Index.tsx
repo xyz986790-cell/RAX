@@ -11,7 +11,7 @@ const Index = () => {
       {/* 🔹 Company Intro Video Section */}
       <div className="w-full max-w-5xl mx-auto px-4 mt-10 mb-16 text-center">
         <h2 className="text-2xl font-semibold text-blue-700 mb-4">
-          Company Introduction Video
+          PODS CBDC VIDEO
         </h2>
 
         <iframe
