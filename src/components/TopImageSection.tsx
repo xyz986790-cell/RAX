@@ -1,12 +1,10 @@
-import "./TopImageSection.css";
-
 const TopImageSection = () => {
   return (
-    <section className="top-image-section">
+    <section className="w-full flex justify-center items-center my-16">
       <img
-        src="/assets/top-image.png"
+        src="/assets/top-image.jpg"
         alt="OMDIC Banner"
-        className="top-image"
+        className="max-w-full md:max-w-3xl lg:max-w-4xl rounded-lg"
       />
     </section>
   );
