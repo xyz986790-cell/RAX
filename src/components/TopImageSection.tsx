@@ -4,7 +4,7 @@ const TopImageSection = () => {
   return (
     <section className="top-image-section">
       <img
-        src="/assets/top-image.jpg"
+        src="/assets/top-image.png"
         alt="OMDIC Banner"
         className="top-image"
       />
