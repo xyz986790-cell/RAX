@@ -1,5 +1,6 @@
 import Header from "@/components/Header";
 import HeroSection from "@/components/HeroSection";
+import TopImageSection from "@/components/TopImageSection";
 import Footer from "@/components/Footer";
 
 const Index = () => {
@@ -7,6 +8,9 @@ const Index = () => {
     <div className="min-h-screen bg-background flex flex-col">
       <Header />
       <HeroSection />
+
+      {/* 🔹 IMAGE SECTION (VIDEO SE UPAR) */}
+      <TopImageSection />
 
       {/* 🔹 Company Intro Video Section */}
       <div className="w-full max-w-5xl mx-auto px-4 mt-10 mb-16 text-center">
