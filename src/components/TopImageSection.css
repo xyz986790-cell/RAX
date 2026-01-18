@@ -1,12 +1,10 @@
 .top-image-section {
   width: 100%;
-  text-align: center;
-  margin: 60px 0 40px 0; /* image aur video ke beech gap */
+  display: flex;
+  justify-content: center;
+  margin: 60px 0;
 }
 
 .top-image {
-  width: 80%;
   max-width: 900px;
-  height: auto;
-  border-radius: 8px;
 }
