@@ -154,8 +154,36 @@ const Services = () => {
                 </div>
               </div>
             ))}
+            
           </div>
+          
+          {/* 👇 YAHAN Project Section paste karo */}
+          <div className="mt-20 bg-primary/5 border border-primary/20 rounded-xl p-10">
+            <h2 className="text-2xl md:text-3xl font-bold text-primary mb-6 text-center">
+              Project
+            </h2>
 
+            <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
+              <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
+                Indian National Water Pipeline Grid with Ballast Replacement Operation with Fresh Water
+              </h3>
+
+              <p className="text-muted-foreground mb-4">
+                (Recommended to Ministry of Water Resources (MoWR) in July 2009)
+              </p>
+
+              <a
+                href="https://drive.google.com/file/d/1e3-PbZ0aj8eBSFELiK8Wgdgte56c0p8e/view?usp=drive_link"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+              >
+                📄 View / Download Project Document
+              </a>
+            </div>
+          </div>
+          {/* 👆 Project Section yahan khatam */}
+        
         </div>
       </main>
       <Footer />
