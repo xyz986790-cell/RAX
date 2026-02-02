@@ -180,6 +180,14 @@ const Services = () => {
               >
                 📄 View / Download Project Document
               </a>
+              <a
+                 href="https://drive.google.com/file/d/1O9-GLl9TQlYezKJiGAxlJzBuk6lVD98B/view?usp=sharing"
+                 target="_blank"
+                  rel="noopener noreferrer"
+                  className="mt-2 inline-flex items-center gap-2 text-sm text-muted-foreground hover:text-primary hover:underline"
+                 >
+                © Copyright
+              </a>   
             </div>
           </div>
           {/* 👆 Project Section yahan khatam */}
