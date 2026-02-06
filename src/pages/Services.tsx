@@ -180,6 +180,7 @@ const Services = () => {
               >
                 📄 View Project Document
               </a>
+            </div>
 
               <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
               <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
@@ -199,8 +200,7 @@ const Services = () => {
                 📄 View Project Document
               </a>
             </div>
-
-            </div>
+            
           </div>
           {/* 👆 Project Section yahan khatam */}
         
