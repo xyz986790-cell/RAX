@@ -189,10 +189,6 @@ const Services = () => {
 
           {/* 👇 2*/}
           <div className="mt-20 bg-primary/5 border border-primary/20 rounded-xl p-10">
-            <h2 className="text-2xl md:text-3xl font-bold text-primary mb-6 text-center">
-              Project
-            </h2>
-
             <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
               <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
                 One Village Private Company-One Farm (OVPC-OF)
