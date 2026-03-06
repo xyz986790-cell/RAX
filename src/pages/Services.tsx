@@ -222,6 +222,25 @@ const Services = () => {
         📄 View Project Document
       </a>
     </div>
+
+    <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
+      <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
+        The Clean India Initiative (CII) & The Global Sanitation Initiative (GSI)
+      </h3>
+
+      <p className="text-muted-foreground mb-4">
+        
+      </p>
+
+      <a
+        href="https://drive.google.com/file/d/1RhMaW6Z4E2ThENB_A1__rw3KM6xfA9i0/view?usp=sharing"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
+      >
+        📄 View Project Document
+      </a>
+    </div>
     
   </div>
 </div>
