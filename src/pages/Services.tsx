@@ -225,7 +225,7 @@ const Services = () => {
 
     <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
       <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
-        The Clean India Initiative (CII) & The Global Sanitation Initiative (GSI)
+        The Clean India Initiative CII & The Global Sanitation Initiative GSI
       </h3>
 
       <p className="text-muted-foreground mb-4">
