@@ -31,15 +31,14 @@ const Services = () => {
     },
     {
        id: 5,
+title1: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
 
-    title1: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
+description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
 
-    description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
-<h3>{service.title2}</h3>
-    title2: "B. Add- See attached INWPG paper.",
+title2: "B. Add- See attached INWPG paper.",
 
-    category: "Innovation",
-    hasLink: true
+category: "Innovation",
+hasLink: true
     },
     {
       id: 6,
@@ -144,7 +143,7 @@ const Services = () => {
                           </div>
                           <div className="flex-1">
                             <h3 className="text-lg font-semibold text-foreground mb-2">
-                              {service.title}
+                              {service.title1}
                               {service.hasLink && (
                                 <span className="ml-2 text-primary text-sm">📄</span>
                               )}
