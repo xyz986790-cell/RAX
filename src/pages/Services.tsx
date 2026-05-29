@@ -31,8 +31,9 @@ const Services = () => {
     },
     {
       id: 5,
-      title: "Original/New Project(s)/Concept(s) Consultant",
-      description: "The Indian National Water Pipelines Grid Concept and Ballast Replacement Operation with Fresh Water",
+      title: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
+      description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
+      title: "B. Add- See attached INWPG paper.",
       category: "Innovation",
       hasLink: true
     },
