@@ -30,12 +30,16 @@ const Services = () => {
       hasLink: true
     },
     {
-      id: 5,
-      title: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
-      description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
-      subtitle: "B. Add- See attached INWPG paper.",
-      category: "Innovation",
-      hasLink: true
+       id: 5,
+
+    title1: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
+
+    description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
+
+    title2: "B. Add- See attached INWPG paper.",
+
+    category: "Innovation",
+    hasLink: true
     },
     {
       id: 6,
