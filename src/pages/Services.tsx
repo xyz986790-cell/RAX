@@ -148,15 +148,16 @@ hasLink: true
                                 <span className="ml-2 text-primary text-sm">📄</span>
                               )}
                             </h3>
+                             <p className="text-muted-foreground leading-relaxed">
+                              {service.description}
+                            </p>
+                           <br />
                             <h3 className="text-lg font-semibold text-foreground mb-2">
                               {service.title2}
                               {service.hasLink && (
                                 <span className="ml-2 text-primary text-sm">📄</span>
                               )}
                             </h3>
-                            <p className="text-muted-foreground leading-relaxed">
-                              {service.description}
-                            </p>
                           </div>
                         </div>
                       </div>
