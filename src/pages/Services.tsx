@@ -35,7 +35,7 @@ title: "A. The PODS CBDC concept where there are no taxes and no shortage of loc
 
 description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
 
-title2: "B. Add- See attached INWPG paper.",
+title2: "B. See attached INWPG paper under projects below.", 
 
 category: "Innovation",
 hasLink: true
@@ -171,7 +171,7 @@ hasLink: true
           {/* 👇 YAHAN Project Section paste karo */}
           <div className="mt-20 bg-primary/5 border border-primary/20 rounded-xl p-10">
   <h2 className="text-2xl md:text-3xl font-bold text-primary mb-6 text-center">
-    Project
+    Projects
   </h2>
 
   {/* Wrapper with spacing */}
