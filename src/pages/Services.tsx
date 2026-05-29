@@ -35,7 +35,7 @@ const Services = () => {
     title1: "A. The PODS CBDC concept where there are no taxes and no shortage of local PODS CBDC issuance only subject to non-availability of resources & factors of production.",
 
     description: "(See PODS CBDC comparison with The 12 schools of economic thought in attached paper.)",
-
+<h3>{service.title2}</h3>
     title2: "B. Add- See attached INWPG paper.",
 
     category: "Innovation",
