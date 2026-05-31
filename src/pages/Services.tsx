@@ -259,7 +259,7 @@ hasLink: true
       </h3>
 
       <p className="text-muted-foreground mb-4">
-        Recommended to The Minister of Rural development in 2025 & presented to the IIPA
+        
       </p>
 
       <a
