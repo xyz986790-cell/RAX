@@ -206,7 +206,7 @@ hasLink: true
       </p>
 
       <a
-        href=" SS "
+        href="https://drive.google.com/file/d/16nlhOuLmY531Ul6VDYHmMmrONIWAi-5L/view?usp=drive_link"
         target="_blank"
         rel="noopener noreferrer"
         className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
