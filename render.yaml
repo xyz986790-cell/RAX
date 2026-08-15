@@ -1,7 +1,8 @@
 services:
-  - type: static_site
-    name: omdic-website
-    buildCommand: npm ci && npm run build
+  - type: web
+    name: rax
+    env: static
+    buildCommand: npm run build
     staticPublishPath: dist
     routes:
       - type: rewrite
