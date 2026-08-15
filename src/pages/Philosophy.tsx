@@ -149,11 +149,10 @@ const Philosophy = () => {
                 <div className="bg-card p-8 rounded-lg shadow-sm border">
                   <h3 className="text-2xl font-semibold text-primary mb-4">Love</h3>
                   <p className="text-muted-foreground leading-relaxed">
-                    Any relationship between two or more individuals that is egoless can be considered as 
-                    platonic love, if not Love itself. All life on earth is a whole, far more extensive 
-                    than any man, woman, or animal, living or dead. And yet, we enter into conflicts, 
-                    torn between our superego's dictates and the id's desires. To discover love, we must 
-                    set aside our pride and petty desires.
+                    When there exists No Ego between 2 or more individuals, or the Egoes are always on the same level(s), 
+                    there exists pure platonic love at the very least, if not Love itself. Find Love. Protect those that Love. 
+                    Help them without envy never to lose or abandon their Love. All find Love however fleetingly. 
+                    Some only live their Egotistic lives loving themselves only.
                   </p>
                 </div>
 
