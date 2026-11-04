@@ -214,26 +214,7 @@ hasLink: true
         📄 View Project Document
       </a>
     </div>
-    
-     <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
-      <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
-        The Stock Market recommended by PODS CBDC.
-      </h3>
-
-      <p className="text-muted-foreground mb-4">
-        Partly presented to the IEA, and partly sent as a call for papers to The World Bank, AEDB. Rejected by NISM & IEG.
-      </p>
-
-      <a
-        href=
-        target="_blank"
-        rel="noopener noreferrer"
-        className="inline-flex items-center gap-2 text-primary font-semibold hover:underline"
-      >
-        📄 View Project Document
-      </a>
-    </div>
-
+  
     <div className="max-w-4xl mx-auto bg-card border rounded-lg p-6 hover:shadow-md transition-shadow">
       <h3 className="text-lg md:text-xl font-semibold text-foreground mb-3">
         The Clean India Initiative CII & The Global Sanitation Initiative GSI
